@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Home = () => {
+const Avatar = () => {
   return (
     <div>
-      Home
+      Avatar
     </div>
   )
 }
 
-export default Home
+export default Avatar
